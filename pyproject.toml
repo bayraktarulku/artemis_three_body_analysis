@@ -1,0 +1,10 @@
+[project]
+name = "artemis-three-body-analysis"
+version = "0.1.0"
+description = "Artemis II Three-Body Problem Analysis - CR3BP Simulator"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.7.0",
+]
