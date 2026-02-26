@@ -68,12 +68,12 @@ Validation:
 Full technical explanations are available on Medium:
 
 **Turkish Article:**  
-- Medium: _(coming soon)_
-- Source: [`MEDIUM_ARTICLE_TR.md`](artemis_three_body_analysis/MEDIUM_ARTICLE_TR.md)
+- [`Medium`]([artemis_three_body_analysis/MEDIUM_ARTICLE_TR.md](https://medium.com/@ulkubayraktar/artemis-ii-ve-%C3%BC%C3%A7-cisim-problemi-bir-yaz%C4%B1l%C4%B1mc%C4%B1n%C4%B1n-y%C3%B6r%C3%BCnge-notlar%C4%B1-0e44d23249cb))
+- [`Source`](artemis_three_body_analysis/MEDIUM_ARTICLE_TR.md)
 
 **English Article:**  
-- Medium: _(coming soon)_
-- Source: [`MEDIUM_ARTICLE_EN.md`](artemis_three_body_analysis/MEDIUM_ARTICLE_EN.md)
+- [`Medium`]([artemis_three_body_analysis/MEDIUM_ARTICLE_EN.md](https://medium.com/@ulkubayraktar/artemis-ii-and-the-three-body-problem-a-developers-trajectory-notes-f240a24e5840))
+- [`Source`](artemis_three_body_analysis/MEDIUM_ARTICLE_EN.md)
 
 ---
 
